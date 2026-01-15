@@ -1,5 +1,4 @@
 # CMS Server API
-heqdjhfjkhadkjafshf
 
 Una API REST completa para gestión de blogs, posts y etiquetas con autenticación por tokens, desarrollada con Django REST Framework y documentación automática con Swagger.
 
